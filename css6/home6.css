@@ -1,0 +1,26 @@
+div{
+  background-color: rgb(15, 30, 234);
+  padding: 45px;
+  color: white;
+  border-radius: 100px;
+  margin: 50px;
+  padding: 100px;
+}
+input[type=submit]{
+                background-color: rgb(228, 214, 17);
+                color: hsl(120, 4%, 5%);
+                font-size: 10px;
+                margin-left:2px;
+                width: 120px;
+                height: 30px;
+                border-radius: 13px;
+            }
+            img {
+              padding-top: px;
+              border-radius: 1130px;
+             float:right
+}
+ul{
+  border-radius: 13px;
+
+}
